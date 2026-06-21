@@ -16,6 +16,7 @@ BINARY = [
     ("noise", "Noise", BinarySensorDeviceClass.SOUND, None),
     ("charging", "Charging", BinarySensorDeviceClass.BATTERY_CHARGING, None),
     ("screenOn", "Screen On", None, "mdi:tablet-dashboard"),
+    ("darkMode", "Dark Mode", None, "mdi:theme-light-dark"),
 ]
 
 
