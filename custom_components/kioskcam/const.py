@@ -1,0 +1,3 @@
+DOMAIN = "kioskcam"
+WEB_PORT = 2323
+RTSP_PORT = 8554
