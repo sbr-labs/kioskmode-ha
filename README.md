@@ -34,4 +34,6 @@ restart, then add the integration from the UI.
 
 ## License
 
-MIT
+Free for personal and other **noncommercial** use under the
+[PolyForm Noncommercial License 1.0.0](LICENSE). **Commercial use requires a paid
+license** — contact sjbrowning7@gmail.com for commercial / royalty terms.
