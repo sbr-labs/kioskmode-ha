@@ -12,8 +12,8 @@ on-device web server (`http://<tablet-ip>:2323`) and exposes everything as entit
 | Entity | Type |
 |---|---|
 | `camera.kioskcam` | Live H.264 stream (RTSP) + JPEG snapshots |
-| `binary_sensor` | Streaming, Motion, Face, Noise, Charging, Screen On |
-| `sensor` | Battery, Camera FPS, Noise Level, Version |
+| `binary_sensor` | Streaming, Motion, Face, Noise, Charging, Screen On, Dark Mode |
+| `sensor` | Battery, Battery Temperature, Camera FPS, Noise Level, Version, Wi-Fi Signal, Wi-Fi Network, Wi-Fi Band, Wi-Fi Link Speed, Memory Free, Storage Free, Uptime, Orientation, Power Source |
 | `switch` | Screen on/off |
 
 ## Install (HACS)
